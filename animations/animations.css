@@ -1,1 +1,61 @@
+body {
+  animation-name: background-manifestation;
+  
+  animation-fill-mode: forwards;
+  animation-duration: 3s;
+ }
 
+@keyframes background-manifestation {
+  from {background-color: #F1F1F1;}
+  to {background-color: #111111;}
+}
+    
+header {
+  opacity: 0;
+  animation-name: elements-manifestation;
+  
+  animation-fill-mode: forwards;
+  animation-duration: 2.5s;
+  animation-delay: 2.5s;
+}
+    
+footer {
+  opacity: 0;
+  animation-name: elements-manifestation;
+	
+  animation-fill-mode: forwards; 
+  animation-duration: 2.5s;
+  animation-delay: 2.5s;
+}
+
+.github {
+  opacity: 0;
+  animation-name: elements-manifestation;
+  
+  animation-fill-mode: forwards;
+  animation-duration: 3s;
+  animation-delay: 3s;
+}   
+    
+.telegram {
+  opacity: 0;
+  animation-name: elements-manifestation;
+  
+  animation-fill-mode: forwards;
+  animation-duration: 3s;
+  animation-delay: 3.4s;
+}   
+    
+.email {
+  opacity: 0;
+  animation-name: elements-manifestation;
+	
+  animation-fill-mode: forwards;
+  animation-duration: 3s;
+  animation-delay: 3.8s;
+}
+
+@keyframes elements-manifestation {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
