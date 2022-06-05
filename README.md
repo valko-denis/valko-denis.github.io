@@ -1,1 +1,1 @@
-valko-denis.github.io
+https://valko-denis.github.io
