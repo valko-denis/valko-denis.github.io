@@ -4,6 +4,8 @@ var selection = null;
 var endedPlaylist = null;
 player.volume = 1;
 
+var transition = "./sounds/transition.mp3";
+
 var livePlaylist = [
     "https://drivemusic.club/dl/p-TFbzsyhISer7R5e2DhYQ/1676069591/download_music/2021/12/domi-lights-off.mp3",
     "https://drivemusic.club/dl/BP7JKIu88Nh_SrRvcAX_KQ/1676036929/download_music/2014/07/onerepublic-counting-stars.mp3",
@@ -85,6 +87,7 @@ var chillPlaylist = [
 ];
 
 function selectRandom(station){
+	player.pause();
 	selection = Math.floor(Math.random() * station.length);
     player.src = station[selection];
     player.play();
@@ -140,8 +143,14 @@ function togglePlay() {
 	}
 }
 
+function transitionPlay() {
+	player.src = transition;
+    player.play();
+    setTimeout(selectRandom, 6000, endedPlaylist);
+}
+
 player.addEventListener('ended',function(){
-	selectRandom(endedPlaylist);
+	transitionPlay();
 });
       
 function minusVolume() {
