@@ -4,7 +4,7 @@ var selection = null;
 var endedPlaylist = null;
 player.volume = 1;
 
-var classicPlaylist = [
+var livePlaylist = [
     "https://drivemusic.club/dl/p-TFbzsyhISer7R5e2DhYQ/1676069591/download_music/2021/12/domi-lights-off.mp3",
     "https://drivemusic.club/dl/BP7JKIu88Nh_SrRvcAX_KQ/1676036929/download_music/2014/07/onerepublic-counting-stars.mp3",
     "https://drivemusic.club/dl/CcqHplTLsR01PLbbiRBjIA/1676036960/download_music/2014/07/eminem-superman.mp3",
@@ -93,10 +93,10 @@ function selectRandom(station){
     station.splice(removeSong, 1); 
 }
     
-function classicPlay() {
+function livePlay() {
 	player.pause();
-	selectRandom(classicPlaylist);
-	endedPlaylist = classicPlaylist;
+	selectRandom(livePlaylist);
+	endedPlaylist = livePlaylist;
 	document.getElementById("button").classList.remove("fa-circle-play");
 	document.getElementById("button").classList.add("fa-circle-pause");
 	document.getElementById("play-button").setAttribute("onclick", "togglePlay()")
@@ -121,8 +121,8 @@ function chillPlay() {
 }
     
 function firstPlay() {
-	selectRandom(classicPlaylist);
-	endedPlaylist = classicPlaylist;
+	selectRandom(livePlaylist);
+	endedPlaylist = livePlaylist;
 	document.getElementById("button").classList.remove("fa-circle-play");
 	document.getElementById("button").classList.add("fa-circle-pause");
 	document.getElementById("play-button").setAttribute("onclick", "togglePlay()")

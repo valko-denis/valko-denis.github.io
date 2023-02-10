@@ -92,9 +92,11 @@ rgb(167, 55, 97) 100%);
     display: block;
 }
 
-.show {display:block;}
+.show {
+	display:block;
+}
 
-.classic {
+.live {
 	position: absolute;
 	width: 185px;
 	height: 50px;
@@ -195,7 +197,7 @@ rgb(167, 55, 97) 100%);
 }
 
 .portfolio, .telegram, .github, .mail {
-	color: #E0015F;
+	color: #0D2241;
 	font-size: 32px;
 	aria-hidden: true;
 }
