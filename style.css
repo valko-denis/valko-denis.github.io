@@ -184,13 +184,29 @@ rgb(167, 55, 97) 100%);
 	aria-hidden: true;
 }
 
+/*————LINKS————*/
+
+.links {
+	position: relative;
+	height: 50px;
+	width: 200px;
+	top: 420px;
+	left: 30%;
+}
+
+.portfolio, .telegram, .github, .mail {
+	color: #E0015F;
+	font-size: 32px;
+	aria-hidden: true;
+}
+
 /*––——COPYRIGHT————*/
 
 .copyright-container {
 	position: relative;
 	height: 40px;
 	width: 320px;
-	top: 500px;
+	top: 440px;
 	left: 45px;
 }
 
