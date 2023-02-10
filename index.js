@@ -1,10 +1,7 @@
 var player = document.getElementById("player");
 var playPauseButton = document.getElementsByClassName("fa-circle-play");           
-
 var selection = null;
-
 var endedPlaylist = null;
-
 player.volume = 1;
 
 var classicPlaylist = [
@@ -77,7 +74,7 @@ var chillPlaylist = [
     "https://now.morsmusic.org/load/297940494/plenka_-_Closed_(musmore.com).mp3",
     "https://now.morsmusic.org/load/747445245/plenka_-_No_(musmore.com).mp3",
     "https://now.morsmusic.org/load/1093405264/Tony_Igy_-_Astronomia_(musmore.com).mp3",
-    "https://muzon-club.net/uploads/files/2022-11/hensonn-flare_456736542.mp3"
+    "https://muzon-club.net/uploads/files/2022-11/hensonn-flare_456736542.mp3",
     "https://mezzoforte.ru/s/artist/409392-martin_garrix_animals.mp3",
     "https://muzon-club.net/uploads/files/2021-11/mr.kitty-after-dark_456239972.mp3",
     "https://now.morsmusic.org/load/291481396/plenka_-_Call_Me_(musmore.com).mp3",
