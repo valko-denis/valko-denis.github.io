@@ -121,8 +121,6 @@ var chillPlaylist = [
     "https://muzon-club.net/uploads/files/2022-10/aces-dkj_456239530.mp3",
     "https://now.morsmusic.org/load/931801659/ONIMXRU_STRAWANGLE_-_PSYCHO_CRUISE_(musmore.com).mp3",
     "https://now.morsmusic.org/load/627173951/The_Chainsmokers_Daya_-_Dont_Let_Me_Down_(musmore.com).mp3",
-    "",
-    "",
     "https://mezzoforte.ru/s/artist/350321-robert_miles_fable_dream_version.mp3",
     "https://mezzoforte.ru/s/artist/445264-robert_miles_children_dream_version.mp3",
     "https://now.morsmusic.org/load/651074907/SadSvit_STRUKTURA_SHHASTYA_-_Silueti_(musmore.com).mp3"
