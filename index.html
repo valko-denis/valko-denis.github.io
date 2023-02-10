@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title>DOJYAAAN.FM</title>
+		<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="./style.css">
+		<script src="https://kit.fontawesome.com/c28e2329bf.js" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<div class="logo-container">
+			<img class="logo" src="./images/logo.png" alt="site-logo">
+		</div>
+		<div class="player-container">
+			<div class="select-live-container">
+				<div class="dropdown">
+					<button onclick="dropdownOpen()" class="dropdown-button">Select <span>LIVE</span> stream <i class="fa-solid fa-caret-down"></i></button>
+					<div id="dropdown-menu" class="dropdown-content">
+						<a href="#" onclick="classicPlay()"><img class="classic" src="./images/classic.png" alt="classic"></a>
+						<a href="#" onclick="oldPlay()"><img class="old" src="./images/80-90.png" alt="80'-90's"></a>
+						<a href="#" onclick="chillPlay()"><img class="chill" src="./images/chill.png" alt="chill"></a>
+					</div>
+				</div>
+			</div>
+			<div class="player-controls-container">
+				<div class="minus-volume-container">
+					<a id="minus-volume-button" onclick="minusVolume()"><i class="fa-solid fa-volume-low"></i></a>
+				</div>
+				<div class="play-button-container">
+					<audio id="player" src="" preload="auto"></audio>
+					<a id="play-button" onclick="firstPlay()"><i id="button" class="fa-regular fa-circle-play"></i></a>
+				</div>
+				<div class="plus-volume-container">
+					<a id="plus-volume-button" onclick="plusVolume()"><i class="fa-solid fa-volume-high"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="copyright-container">
+        	<p class="copyright-text">Made with <span><i class="fa fa-chevron-left"></i> <i class="fa fa-heart"></i> <i class="fa fa-chevron-right"></i></span> by DOJYAAAN</p>
+        </div>
+		<script src="index.js"></script>
+	</body>
+</html>
