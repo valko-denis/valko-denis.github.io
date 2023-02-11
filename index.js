@@ -215,16 +215,20 @@ function firstPlay() {
 }
     
 function togglePlay() {
-	if (player.muted == false) {
-		player.muted = true;
-		document.getElementById("button").classList.remove("fa-circle-pause");
-		document.getElementById("button").classList.add("fa-circle-play");
+	if (player.paused) {
+		player.play();
 	} else {
-		player.muted = false;
-		document.getElementById("button").classList.remove("fa-circle-play");
-		document.getElementById("button").classList.add("fa-circle-pause");
+	    if (player.muted == false) {
+	        player.muted = true;
+	        document.getElementById("button").classList.remove("fa-circle-pause");
+	        document.getElementById("button").classList.add("fa-circle-play");
+	    } else {
+	        player.muted = false;
+	        document.getElementById("button").classList.remove("fa-circle-play");
+	        document.getElementById("button").classList.add("fa-circle-pause");
+	    }
 	}
-}
+    }
 
 navigator.mediaSession.setActionHandler('pause', function() {});
 navigator.mediaSession.setActionHandler('seekto', function() {});
