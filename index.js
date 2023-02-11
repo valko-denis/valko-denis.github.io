@@ -17,7 +17,7 @@ var livePlaylist = {
     "Major Lazer – Lean on": "https://drivemusic.club/dl/4-zCxU9p3b9K1Y9Jnjgm5A/1676043024/download_music/2015/03/major-lazer-feat.-mo-dj-snake-lean-on.mp3",
     "Michael Jackson – Billie Jean": "https://drivemusic.club/dl/8e8Ju2j18WQ26KXmKVzQWg/1676068952/download_music/2020/03/michael-jackson-billie-jean.mp3",
     "Calvin Harris – Outside": "https://drivemusic.club/dl/e9Yqsvb2c7_icnFrfxPPxg/1676069031/download_music/2014/10/calvin-harris-feat.-ellie-goulding-outside.mp3",
-    "Adelle – Rolling in the deep": "https://drivemusic.club/dl/NNLXx8oBm3XIwSBEdvMtAg/1676069054/download_music/2014/07/adele-rolling-in-the-deep.mp3",
+    "Adele – Rolling in the deep": "https://drivemusic.club/dl/NNLXx8oBm3XIwSBEdvMtAg/1676069054/download_music/2014/07/adele-rolling-in-the-deep.mp3",
     "Major Lazer – Light it up": "https://drivemusic.club/dl/i1pI9wtEO8dK6PkqkxfSOw/1676042609/download_music/2015/11/major-lazer-feat.-nyla-fuse-dg-light-it-up-remix.mp3",
     "Aaron Smith – Dancin (krono remix)": "https://drivemusic.club/dl/HzadP-Zv4pjUemk39RX57A/1676042645/download_music/2014/01/aaron-smith-dancin-krono-remix.mp3",
     "Twenty One Pistols – Stressed Out": "https://drivemusic.club/dl/qmYWrc0R_IjYzbNJGnk2ww/1676043228/download_music/2015/05/twenty-one-pilots-stressed-out.mp3",
@@ -31,7 +31,7 @@ var livePlaylist = {
     "Twenty One Pistols – Heathens": "https://drivemusic.club/dl/8aBJvBX9-iaaZgDtYPuxYg/1676043400/download_music/2016/06/twenty-one-pilots-heathens.mp3",
     "DNCE – Cake by the ocean": "https://drivemusic.club/dl/N0fpZSR6omoesrrswAx2dg/1676043415/download_music/2015/09/dnce-cake-by-the-ocean.mp3",
     "DNCE – Kissing strangers": "https://drivemusic.club/dl/4SFnpcJO2ae5UbxBEwbhCw/1676043437/download_music/2017/04/dnce-feat.-nicki-minaj-kissing-strangers.mp3",
-    "Linkin park – NUMB": "https://drivemusic.club/dl/nRJSJOLzb0uvdfQsR7reKA/1676043474/download_music/2014/02/linkin-park-numb.mp3",
+    "Linkin park – Numb": "https://drivemusic.club/dl/nRJSJOLzb0uvdfQsR7reKA/1676043474/download_music/2014/02/linkin-park-numb.mp3",
     "Sam Smith – Unholy": "https://drivemusic.club/dl/ZUpTmt5JvI6cNNnLEGQB9g/1676043872/download_music/2022/09/sam-smith-feat.-kim-petras-unholy.mp3",
     "Eminem – Mockingbird": "https://drivemusic.club/dl/i05OsdmwDfPGA_u5m8vekA/1676043895/download_music/2014/07/eminem-mockingbird.mp3",
     "David Guetta – I'm good": "https://muzon-club.net/uploads/files/2022-09/bebe-rexha-david-guetta-amp-bebe-rexha-i39m-good-blue-official-lyric-video_456239767.mp3",
@@ -78,25 +78,25 @@ var livePlaylist = {
 var oldPlaylist = {
     "Desireless – Voyage voyage": "https://drivemusic.club/dl/jCqPh1NdqViYEGeaoXFDxQ/1676043569/download_music/2016/12/desireless-voyage-voyage.mp3",
     "C.C. Catch – 'Cause you are young": "https://drivemusic.club/dl/kO2_lRHHgLPcN4mkP78T_Q/1676043601/download_music/2013/02/c.c.catch-cause-you-are-young.mp3",
-    "": "https://drivemusic.club/dl/r_cM_GWvsdTGiG_pi8xYDQ/1676043631/download_music/2021/03/abba-gimme-gimme-gimme-a-man-after-midnight.mp3",
-    "": "https://drivemusic.club/dl/Fi_NYymIt3oxupEsy8YpaQ/1676069113/download_music/2018/03/bad-boys-blue-you039re-a-woman.mp3",
-    "": "https://drivemusic.club/dl/ozYKGpoLM8CnzdvKZTuyLw/1676043708/download_music/2013/02/modern-talking-brother-louie.mp3",
-    "": "https://drivemusic.club/dl/nPK1gYHFNakcAEt3HfB5BA/1676043693/download_music/2019/03/modern-talking-you-can-win-if-you-want.mp3",
-    "": "https://drivemusic.club/dl/ERMAIT_JrprMBgLWikwB8Q/1676043726/download_music/2019/09/modern-talking-geronimos-cadillac-long-vocal-version.mp3",
-    "": "https://drivemusic.club/dl/xiwBMFUf9hamk1njX6kwnw/1676069097/download_music/2013/02/modern-talking-youre-my-heart-youre-my-soul.mp3",
-    "": "https://now.morsmusic.org/load/155547581/Modern_Talking_-_Cheri_Cheri_Lady_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/2076887940/Modern_Talking_-_Do_You_Wanna_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/722746777/Modern_Talking_-_In_100_Years_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/1669141142/Modern_Talking_-_One_in_a_Million_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/2112845232/Modern_Talking_-_Dont_Give_Up_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/1109660928/Modern_Talking_-_Doctor_for_My_Heart_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/776575012/Europe_-_The_Final_Countdown_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/347720718/Rick_Astley_Tribute_Band_-_Never_Gonna_Give_You_Up_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/2018627083/Survivor_-_Eye_of_the_Tiger_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/16686339/Haddaway_-_What_Is_Love_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/1924795295/Joy_-_Touch_By_Touch_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/931821259/Dr_Alban_-_Its_My_Life_(musmore.com).mp3",
-    "": "https://now.morsmusic.org/load/1132554976/Eurythmics_Annie_Lennox_Dave_Stewart_-_Sweet_Dreams_Are_Made_of_This_(musmore.com).mp3"
+    "ABBA – Gimme gimme gimme": "https://drivemusic.club/dl/r_cM_GWvsdTGiG_pi8xYDQ/1676043631/download_music/2021/03/abba-gimme-gimme-gimme-a-man-after-midnight.mp3",
+    "Bad Boys Blue – You're a woman": "https://drivemusic.club/dl/Fi_NYymIt3oxupEsy8YpaQ/1676069113/download_music/2018/03/bad-boys-blue-you039re-a-woman.mp3",
+    "Modern Talking – Brother Louie": "https://drivemusic.club/dl/ozYKGpoLM8CnzdvKZTuyLw/1676043708/download_music/2013/02/modern-talking-brother-louie.mp3",
+    "Modern Talking – You can win if you want": "https://drivemusic.club/dl/nPK1gYHFNakcAEt3HfB5BA/1676043693/download_music/2019/03/modern-talking-you-can-win-if-you-want.mp3",
+    "Modern Talking – Geronimos cadillac": "https://drivemusic.club/dl/ERMAIT_JrprMBgLWikwB8Q/1676043726/download_music/2019/09/modern-talking-geronimos-cadillac-long-vocal-version.mp3",
+    "Modern Talking – You my heart, you my soul": "https://drivemusic.club/dl/xiwBMFUf9hamk1njX6kwnw/1676069097/download_music/2013/02/modern-talking-youre-my-heart-youre-my-soul.mp3",
+    "Modern Talking – Cheri Cheri Lady": "https://now.morsmusic.org/load/155547581/Modern_Talking_-_Cheri_Cheri_Lady_(musmore.com).mp3",
+    "Modern Talking – Do you wanna": "https://now.morsmusic.org/load/2076887940/Modern_Talking_-_Do_You_Wanna_(musmore.com).mp3",
+    "Modern Talking – In 100 years": "https://now.morsmusic.org/load/722746777/Modern_Talking_-_In_100_Years_(musmore.com).mp3",
+    "Modern Talking – One in a million": "https://now.morsmusic.org/load/1669141142/Modern_Talking_-_One_in_a_Million_(musmore.com).mp3",
+    "Modern Talking – Don't give up": "https://now.morsmusic.org/load/2112845232/Modern_Talking_-_Dont_Give_Up_(musmore.com).mp3",
+    "Modern Talking – Doctor for my heart": "https://now.morsmusic.org/load/1109660928/Modern_Talking_-_Doctor_for_My_Heart_(musmore.com).mp3",
+    "Europe – The final countdown": "https://now.morsmusic.org/load/776575012/Europe_-_The_Final_Countdown_(musmore.com).mp3",
+    "Rick Astley – Never gonna give you up": "https://now.morsmusic.org/load/347720718/Rick_Astley_Tribute_Band_-_Never_Gonna_Give_You_Up_(musmore.com).mp3",
+    "Survivor – Eye of the tiger": "https://now.morsmusic.org/load/2018627083/Survivor_-_Eye_of_the_Tiger_(musmore.com).mp3",
+    "Haddaway – What is love": "https://now.morsmusic.org/load/16686339/Haddaway_-_What_Is_Love_(musmore.com).mp3",
+    "Joy – Touch by touch": "https://now.morsmusic.org/load/1924795295/Joy_-_Touch_By_Touch_(musmore.com).mp3",
+    "Dr.Alban – It's my life": "https://now.morsmusic.org/load/931821259/Dr_Alban_-_Its_My_Life_(musmore.com).mp3",
+    "Eurythmics – Sweet dreams": "https://now.morsmusic.org/load/1132554976/Eurythmics_Annie_Lennox_Dave_Stewart_-_Sweet_Dreams_Are_Made_of_This_(musmore.com).mp3"
 };
 
 var chillPlaylist = {
@@ -106,12 +106,11 @@ var chillPlaylist = {
     "Liue – Suffer with me": "https://now.morsmusic.org/load/1021497721/Liue_-_Suffer_With_Me_(musmore.com).mp3",
     "Meg Myers – Desire (Hucci Remix)": "https://mp3bob.ru/download/muz/Meg_Myers_-_Desire_(Hucci_Remix)_[mp3pulse.ru].mp3",
     "Plenka – Closed": "https://now.morsmusic.org/load/297940494/plenka_-_Closed_(musmore.com).mp3",
-    "Plenks – No": "https://now.morsmusic.org/load/747445245/plenka_-_No_(musmore.com).mp3",
+    "Plenka – No": "https://now.morsmusic.org/load/747445245/plenka_-_No_(musmore.com).mp3",
     "Hensonn – Flare": "https://muzon-club.net/uploads/files/2022-11/hensonn-flare_456736542.mp3",
     "Martin Garrix – Animals": "https://mezzoforte.ru/s/artist/409392-martin_garrix_animals.mp3",
     "Daft Punk – Around the world": "https://mezzoforte.ru/s/daft_punk/around_the_world.mp3",
     "Mazie – Dumb dumb": "https://now.morsmusic.org/load/879074920/mazie_-_dumb_dumb_(musmore.com).mp3",
-    "Enur – Calabria": "https://muzon-club.net/uploads/files/2022-10/enur-feat.-natasja-calabria-2007_456483314.mp3",
     "Skrilex – Bangarang": "https://muzon-club.net/uploads/files/2022-07/skrillex-feat.-sirah-bangarang-feat.-sirah_456515601.mp3",
     "Gorillaz – Feel Good Inc.": "https://muzon-club.net/uploads/files/2022-07/gorillaz-feel-good-inc._456240017.mp3",   
     "Mr.Kitty – After dark": "https://muzon-club.net/uploads/files/2021-11/mr.kitty-after-dark_456239972.mp3",
@@ -231,7 +230,7 @@ function togglePlay() {
 }
 
 navigator.mediaSession.setActionHandler('pause', function() {});
-navigator.mediaSession.setActionHandler('seekto', function() { /* Code excerpted. */ });
+navigator.mediaSession.setActionHandler('seekto', function() {});
 
 function endedSong() {
 	var randomEndedSong = endedPlaylist[selectRandom(endedPlaylist)];
