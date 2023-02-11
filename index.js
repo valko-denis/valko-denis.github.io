@@ -45,7 +45,6 @@ var livePlaylist = {
     "Deorro – Five Hours": "https://now.morsmusic.org/load/2079156355/Deorro_-_Five_Hours_(musmore.com).mp3",
     "DJ Snake – Let me love you": "https://now.morsmusic.org/load/1476832497/Dj_Snake_Justin_Bieber_-_Let_Me_Love_You_(musmore.com).mp3",
     "Ed Sheeran – Shape of you": "https://muzon-club.net/uploads/files/2022-05/ed-sheeran-shape-of-you_456289108.mp3",
-    "Eminem – Lose yourself": "https://muzon-club.net/russkaja-pop-muzyka/19670-eminem-lose-yourself-iz-filma-8-milja.html",
     "The Chainsmokers – Don't let me down": "https://now.morsmusic.org/load/627173951/The_Chainsmokers_Daya_-_Dont_Let_Me_Down_(musmore.com).mp3",
     "Collio – Gangstas paradise": "https://muzon-club.net/uploads/files/2022-12/collio-gangstas-paradise_73314887.mp3",
     "Imany – Don't be so shy": "https://now.morsmusic.org/load/223028305/Imany_Filatov_Karas_-_Dont_Be_So_Shy_(musmore.com).mp3",
