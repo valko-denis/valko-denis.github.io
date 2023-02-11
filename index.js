@@ -86,7 +86,6 @@ var oldPlaylist = {
     "Haddaway – What is love": "https://now.morsmusic.org/load/16686339/Haddaway_-_What_Is_Love_(musmore.com).mp3",
     "Joy – Touch by touch": "https://now.morsmusic.org/load/1924795295/Joy_-_Touch_By_Touch_(musmore.com).mp3",
     "Dr.Alban – It's my life": "https://now.morsmusic.org/load/931821259/Dr_Alban_-_Its_My_Life_(musmore.com).mp3",
-    "Modern Talking – In 100 years": "https://now.morsmusic.org/load/722746777/Modern_Talking_-_In_100_Years_(musmore.com).mp3",
     "Modern Talking – One in a million": "https://now.morsmusic.org/load/1669141142/Modern_Talking_-_One_in_a_Million_(musmore.com).mp3",
     "Modern Talking – Don't give up": "https://now.morsmusic.org/load/2112845232/Modern_Talking_-_Dont_Give_Up_(musmore.com).mp3",
     "C.C. Catch – 'Cause you are young": "https://drivemusic.club/dl/kO2_lRHHgLPcN4mkP78T_Q/1676043601/download_music/2013/02/c.c.catch-cause-you-are-young.mp3",
