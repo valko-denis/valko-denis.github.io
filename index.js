@@ -65,7 +65,6 @@ var livePlaylist = {
     "Morandi – Angels": "https://drivemusic.club/dl/bS1Q6frKWAHtJZ6YU_Y4bw/1676044067/download_music/2013/12/morandi-angels.mp3",
     "Lil Nas X – Old town road": "https://drivemusic.club/dl/xsH7_YhkjLSyBoAfblY3gA/1676044113/download_music/2019/04/lil-nas-x-old-town-road.mp3",
     "Edvard Maya – Stereo love": "https://mezzoforte.ru/s/artist/436923-edward_maya_amp_vika_jigulina_stereo_love_original.mp3",
-    "Gym Class Heroes – Stereo hearts": "https://now.morsmusic.org/load/135712562/Gym_Class_Heroes_Adam_Levine_-_Stereo_Hearts_(musmore.com).mp3",
     "Bon Jovi – Livin on a prayer": "https://now.morsmusic.org/load/1854281736/Bon_Jovi_-_Livin_On_A_Prayer_(musmore.com).mp3",
     "Bon Jovi – It's my life": "https://now.morsmusic.org/load/1737797712/Bon_Jovi_-_Its_My_Life_(musmore.com).mp3",
     "Burak Yeter – Tuesday": "https://now.morsmusic.org/load/603306955/Burak_Yeter_Danelle_Sandoval_-_Tuesday_(musmore.com).mp3",
