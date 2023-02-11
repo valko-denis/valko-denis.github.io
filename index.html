@@ -13,11 +13,11 @@
 		<div class="player-container">
 			<div class="select-live-container">
 				<div class="dropdown">
-					<button onclick="dropdownOpen()" class="dropdown-button">Select <span>LIVE</span> stream <i class="fa-solid fa-caret-down"></i></button>
+					<button onclick="dropdownOpen()" class="dropdown-button">Select <span>LIVE</span> playlist <i class="fa-solid fa-caret-down"></i></button>
 					<div id="dropdown-menu" class="dropdown-content">
-						<a href="#live" onclick="livePlay()" target=”_blank”><img class="live" src="./images/live.png" alt="live"></a>
-						<a href="#80-90s" onclick="oldPlay()" target=”_blank”><img class="old" src="./images/80-90.png" alt="80'-90's"></a>
-						<a href="#chill" onclick="chillPlay()" target=”_blank”><img class="chill" src="./images/chill.png" alt="chill"></a>
+						<a onclick="livePlaylistPlay()" target=”_blank”><img class="live" src="./images/live.png" alt="live"></a>
+						<a onclick="oldPlaylistPlay()" target=”_blank”><img class="old" src="./images/80-90.png" alt="80'-90's"></a>
+						<a onclick="chillPlaylistPlay()" target=”_blank”><img class="chill" src="./images/chill.png" alt="chill"></a>
 					</div>
 				</div>
 			</div>
@@ -32,6 +32,14 @@
 				<div class="plus-volume-container">
 					<a id="plus-volume-button" onclick="plusVolume()"><i class="fa-solid fa-volume-high"></i></a>
 				</div>
+			</div>
+		</div>
+		<div class="playing-now-body-container">
+			<div class="playing-now-text-container">
+				<p class="playing-now-text">Now playing:</p>
+			</div>
+			<div class="playing-now-container">
+				<p id="playing-now"></p>
 			</div>
 		</div>
 		<div class="links">
