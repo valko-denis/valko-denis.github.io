@@ -15,7 +15,6 @@ var livePlaylist = {
     "Nirvana – Smells like teen spirit": "https://drivemusic.club/dl/RprZeLK8XXnZEyaHV4JdRw/1676043487/download_music/2020/10/nirvana-smells-like-teen-spirit.mp3",
     "Milky Chance – Stolen Dance": "https://drivemusic.club/dl/sz9pmJL3MVkYGkSlZvd_Mg/1676042690/download_music/2013/12/milky-chance-stolen-dance.mp3",
     "Major Lazer – Lean on": "https://drivemusic.club/dl/4-zCxU9p3b9K1Y9Jnjgm5A/1676043024/download_music/2015/03/major-lazer-feat.-mo-dj-snake-lean-on.mp3",
-    "Michael Jackson – Billie Jean": "https://drivemusic.club/dl/8e8Ju2j18WQ26KXmKVzQWg/1676068952/download_music/2020/03/michael-jackson-billie-jean.mp3",
     "Calvin Harris – Outside": "https://drivemusic.club/dl/e9Yqsvb2c7_icnFrfxPPxg/1676069031/download_music/2014/10/calvin-harris-feat.-ellie-goulding-outside.mp3",
     "Adele – Rolling in the deep": "https://drivemusic.club/dl/NNLXx8oBm3XIwSBEdvMtAg/1676069054/download_music/2014/07/adele-rolling-in-the-deep.mp3",
     "Major Lazer – Light it up": "https://drivemusic.club/dl/i1pI9wtEO8dK6PkqkxfSOw/1676042609/download_music/2015/11/major-lazer-feat.-nyla-fuse-dg-light-it-up-remix.mp3",
@@ -23,6 +22,7 @@ var livePlaylist = {
     "Twenty One Pistols – Stressed Out": "https://drivemusic.club/dl/qmYWrc0R_IjYzbNJGnk2ww/1676043228/download_music/2015/05/twenty-one-pilots-stressed-out.mp3",
     "Portugal. The Man – Feel it still": "https://drivemusic.club/dl/0WyKaoCeTc9ux-of587Hqg/1676043261/download_music/2017/03/portugal.-the-man-feel-it-still.mp3",
     "Vance Joy – Riptide": "https://drivemusic.club/dl/1ev2biOZmP65QrnNOTsLeA/1676043288/download_music/2013/10/vance-joy-riptide.mp3",
+    "Melanie Martinez – Cake": "https://now.morsmusic.org/load/1967937117/Melanie_Martinez_-_Cake_(musmore.com).mp3",
     "Katy Perry – I kissed a girl": "https://drivemusic.club/dl/E8T0h4zsNiDCMXdorUQGYw/1676069143/download_music/2014/07/katy-perry-i-kissed-a-girl.mp3",
     "Onerepublic – I ain't worried": "https://drivemusic.club/dl/uDEKrd8lh9mVvdfKnrwx4w/1676069381/download_music/2022/05/onerepublic-i-aint-worried.mp3",
     "Coldplay – Hymn for the weekend": "https://drivemusic.club/dl/WyfsDSp0K2BHzQKIuJtDpw/1676069425/download_music/2015/11/coldplay-feat.-beyonce-hymn-for-the-weekend.mp3",
@@ -46,6 +46,7 @@ var livePlaylist = {
     "DJ Snake – Let me love you": "https://now.morsmusic.org/load/1476832497/Dj_Snake_Justin_Bieber_-_Let_Me_Love_You_(musmore.com).mp3",
     "Ed Sheeran – Shape of you": "https://muzon-club.net/uploads/files/2022-05/ed-sheeran-shape-of-you_456289108.mp3",
     "Eminem – Lose yourself": "https://muzon-club.net/russkaja-pop-muzyka/19670-eminem-lose-yourself-iz-filma-8-milja.html",
+    "The Chainsmokers – Don't let me down": "https://now.morsmusic.org/load/627173951/The_Chainsmokers_Daya_-_Dont_Let_Me_Down_(musmore.com).mp3",
     "Collio – Gangstas paradise": "https://muzon-club.net/uploads/files/2022-12/collio-gangstas-paradise_73314887.mp3",
     "Imany – Don't be so shy": "https://now.morsmusic.org/load/223028305/Imany_Filatov_Karas_-_Dont_Be_So_Shy_(musmore.com).mp3",
     "James Young – Infinity": "https://now.morsmusic.org/load/736777549/Jaymes_Young_-_Infinity_(musmore.com).mp3",
@@ -80,6 +81,7 @@ var oldPlaylist = {
     "Modern Talking – You my heart, you my soul": "https://drivemusic.club/dl/xiwBMFUf9hamk1njX6kwnw/1676069097/download_music/2013/02/modern-talking-youre-my-heart-youre-my-soul.mp3",
     "Modern Talking – Cheri Cheri Lady": "https://now.morsmusic.org/load/155547581/Modern_Talking_-_Cheri_Cheri_Lady_(musmore.com).mp3",
     "C.C. Catch – Strangers by night": "https://now.morsmusic.org/load/1076914554/CC_Catch_-_Strangers_by_Night_(musmore.com).mp3",    
+    "Michael Jackson – Billie Jean": "https://drivemusic.club/dl/8e8Ju2j18WQ26KXmKVzQWg/1676068952/download_music/2020/03/michael-jackson-billie-jean.mp3",
     "Modern Talking – Do you wanna": "https://now.morsmusic.org/load/2076887940/Modern_Talking_-_Do_You_Wanna_(musmore.com).mp3",
     "Survivor – Eye of the tiger": "https://now.morsmusic.org/load/2018627083/Survivor_-_Eye_of_the_Tiger_(musmore.com).mp3",
     "Haddaway – What is love": "https://now.morsmusic.org/load/16686339/Haddaway_-_What_Is_Love_(musmore.com).mp3",
@@ -117,10 +119,8 @@ var chillPlaylist = {
     "Eiffel 65 – Blue (KNY Factory Remix)": "https://muzon-club.net/uploads/files/2022-10/eiffel-65-blue-kny-factory-remix_105395263.mp3",
     "DKJ – Aces": "https://muzon-club.net/uploads/files/2022-10/aces-dkj_456239530.mp3",
     "ONIMXRU x STRAWANGLE – Psycho Cruise": "https://now.morsmusic.org/load/931801659/ONIMXRU_STRAWANGLE_-_PSYCHO_CRUISE_(musmore.com).mp3",
-    "The Chainsmokers – Don't let me down": "https://now.morsmusic.org/load/627173951/The_Chainsmokers_Daya_-_Dont_Let_Me_Down_(musmore.com).mp3",
     "Robert Miles – Fable": "https://mezzoforte.ru/s/artist/350321-robert_miles_fable_dream_version.mp3",
-    "Robert Miles – Children": "https://mezzoforte.ru/s/artist/445264-robert_miles_children_dream_version.mp3",
-    "SadSvit – Syluety": "https://now.morsmusic.org/load/651074907/SadSvit_STRUKTURA_SHHASTYA_-_Silueti_(musmore.com).mp3"
+    "Robert Miles – Children": "https://mezzoforte.ru/s/artist/445264-robert_miles_children_dream_version.mp3"
 };
 
 function selectRandom(station){
