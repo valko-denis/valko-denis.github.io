@@ -3,7 +3,7 @@ var playingNowText = document.getElementById("playing-now");
 var playPauseButton = document.getElementsByClassName("fa-circle-play");           
 var selection = null;
 var endedPlaylist = null;
-var playingNow = null;;
+var playingNow = null;
 player.volume = 1;
 
 var transition = "./sounds/transition.mp3";
