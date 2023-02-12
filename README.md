@@ -1,1 +1,1 @@
-https://fm-dojyaaan.pp.ua
+https://soundalive.pp.ua
