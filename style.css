@@ -5,7 +5,7 @@
 }
 
 html, body {
-	background: linear-gradient(0deg, #bAC8E0, #5975a8);
+	background: linear-gradient(0deg, #BAC8E0, #5975A8);
 	height: 100%;
 	margin: 0;
 }
@@ -29,7 +29,7 @@ span {
 	width: 150px;
 	height: 30px;
 	top: 0;
-	left: 33%;
+	left: 135px;
 }
 
 /*—–––PLAYER–———*/
@@ -139,7 +139,7 @@ span {
 	width: 150px;
 	top: 15px;
 	right: 15px;
-	background: #E0115F;
+	background: #E0015F;
 	border-top-right-radius: 10px;
 	border-bottom-right-radius: 10px;
 }
@@ -256,8 +256,8 @@ span {
 	position: relative;
 	height: 50px;
 	width: 200px;
-	top: 330px;
-	left: 30%;
+	top: 320px;
+	left: 130px;
 }
 
 .portfolio, .telegram, .github, .mail {
@@ -271,9 +271,9 @@ span {
 .copyright-container {
 	position: relative;
 	height: 40px;
-	width: 320px;
-	top: 330px;
-	left: 45px;
+	width: 290px;
+	top: 320px;
+	left: 65px;
 }
 
 .copyright-text {
