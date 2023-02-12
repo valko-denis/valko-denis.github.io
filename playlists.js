@@ -15,6 +15,8 @@ var livePlaylist = {
     "Portugal. The Man – Feel it still": "https://drivemusic.club/dl/0WyKaoCeTc9ux-of587Hqg/1676043261/download_music/2017/03/portugal.-the-man-feel-it-still.mp3",
     "Vance Joy – Riptide": "https://drivemusic.club/dl/1ev2biOZmP65QrnNOTsLeA/1676043288/download_music/2013/10/vance-joy-riptide.mp3",
     "Melanie Martinez – Cake": "https://now.morsmusic.org/load/1967937117/Melanie_Martinez_-_Cake_(musmore.com).mp3",
+    "2WEI – Toxic": "https://now.morsmusic.org/load/245494792/2WEI_-_Toxic_(musmore.com).mp3",
+    "SyKo – BrooklynBloodPop": "https://now.morsmusic.org/load/1795992656/Syko_-_BrooklynBloodPop_(musmore.com).mp3",
     "Katy Perry – I kissed a girl": "https://drivemusic.club/dl/E8T0h4zsNiDCMXdorUQGYw/1676069143/download_music/2014/07/katy-perry-i-kissed-a-girl.mp3",
     "Onerepublic – I ain't worried": "https://drivemusic.club/dl/uDEKrd8lh9mVvdfKnrwx4w/1676069381/download_music/2022/05/onerepublic-i-aint-worried.mp3",
     "Coldplay – Hymn for the weekend": "https://drivemusic.club/dl/WyfsDSp0K2BHzQKIuJtDpw/1676069425/download_music/2015/11/coldplay-feat.-beyonce-hymn-for-the-weekend.mp3",
