@@ -46,7 +46,6 @@ var livePlaylist = {
     "Of monsters and man – Little talks": "https://muzon-club.net/uploads/files/2022-08/of-monsters-and-men-little-talks_6569891.mp3",
     "Maneskin – I wanna be your slave": "https://muzon-club.net/uploads/files/2022-08/maneskin-i-wanna-be-your-slave_456249536.mp3",
     "Sean Paul – No lie": "https://muzon-club.net/uploads/files/2021-05/sean-paul-feat.-dua-lipa-no-lie_456412543.mp3",
-    "Sean Paul – Sean thrills": "https://muzon-club.net/uploads/files/2022-06/sia-feat.-sean-paul-cheap-thrills_4033216.mp3",
     "The chemical brothers – Go": "https://now.morsmusic.org/load/1599496174/The_Chemical_Brothers_Claude_VonStroke_-_Go_(musmore.com).mp3",
     "The Kid LAROI – Stay": "https://now.morsmusic.org/load/851323561/The_Kid_LAROI_Justin_Bieber_-_STAY_(musmore.com).mp3",
     "Stromae – Papaoutai": "https://muzon-club.net/uploads/files/2022-08/stromae-papaoutai_456354884.mp3",
