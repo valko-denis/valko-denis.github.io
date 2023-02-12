@@ -80,7 +80,7 @@ rgb(167, 55, 97) 100%);
     background-color: #0D2241;
     top: 50px;
     width: 200px;
-    height: 190px;
+    height: 130px;
     z-index: 1;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -109,14 +109,6 @@ rgb(167, 55, 97) 100%);
 	width: 185px;
 	height: 50px;
 	top: 70px;
-	left: 10px;
-}
-
-.chill {
-	position: absolute;
-	width: 185px;
-	height: 50px;
-	top: 130px;
 	left: 10px;
 }
 

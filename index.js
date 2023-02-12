@@ -42,7 +42,7 @@ var livePlaylist = {
     "CHROMANCE – Wrap me in plastic": "https://muzon-club.net/uploads/files/2022-08/chromance-marcus-layton-wrap-me-in-plastic_58258242.mp3",
     "Daft Punk – Get lucky": "https://muzon-club.net/uploads/files/2021-09/daft-punk-feat.-pharrell-williams-nile-rodgers-get-lucky_456355945.mp3",
     "David Guetta – This Ones For You": "https://now.morsmusic.org/load/702267745/David_Guetta_-_This_Ones_For_You_(musmore.com).mp3",
-    "Deorro – Five Hours": "https://now.morsmusic.org/load/2079156355/Deorro_-_Five_Hours_(musmore.com).mp3",
+    "Deorro – Five More Hours": "https://mp3bob.ru/download/muz/Deorro_and_Chris_Brown_-_Five_More_Hours_[mp3pulse.ru]_sample.mp3",
     "DJ Snake – Let me love you": "https://now.morsmusic.org/load/1476832497/Dj_Snake_Justin_Bieber_-_Let_Me_Love_You_(musmore.com).mp3",
     "Ed Sheeran – Shape of you": "https://muzon-club.net/uploads/files/2022-05/ed-sheeran-shape-of-you_456289108.mp3",
     "The Chainsmokers – Don't let me down": "https://now.morsmusic.org/load/627173951/The_Chainsmokers_Daya_-_Dont_Let_Me_Down_(musmore.com).mp3",
@@ -52,16 +52,30 @@ var livePlaylist = {
     "Of monsters and man – Little talks": "https://muzon-club.net/uploads/files/2022-08/of-monsters-and-men-little-talks_6569891.mp3",
     "Maneskin – I wanna be your slave": "https://muzon-club.net/uploads/files/2022-08/maneskin-i-wanna-be-your-slave_456249536.mp3",
     "Sean Paul – No lie": "https://muzon-club.net/uploads/files/2021-05/sean-paul-feat.-dua-lipa-no-lie_456412543.mp3",
+    "Sean Paul – Sean thrills": "https://muzon-club.net/uploads/files/2022-06/sia-feat.-sean-paul-cheap-thrills_4033216.mp3",
     "The chemical brothers – Go": "https://now.morsmusic.org/load/1599496174/The_Chemical_Brothers_Claude_VonStroke_-_Go_(musmore.com).mp3",
     "The Kid LAROI – Stay": "https://now.morsmusic.org/load/851323561/The_Kid_LAROI_Justin_Bieber_-_STAY_(musmore.com).mp3",
     "Stromae – Papaoutai": "https://muzon-club.net/uploads/files/2022-08/stromae-papaoutai_456354884.mp3",
+    "Eiffel 65 – Blue (KNY Factory Remix)": "https://muzon-club.net/uploads/files/2022-10/eiffel-65-blue-kny-factory-remix_105395263.mp3",
     "ZAYN – Dusk Till Dawn": "https://now.morsmusic.org/load/420832185/ZAYN_Sia_-_Dusk_Till_Dawn_(musmore.com).mp3",
     "Fall Out Boy – Sugar Were Goin Down": "https://now.morsmusic.org/load/1696569949/Fall_Out_Boy_-_Sugar_Were_Goin_Down_(musmore.com).mp3",
     "The Black Eyed Peas – Pump It": "https://drivemusic.club/dl/k3Rx8Ti-NHMBQI9lVKQ3rg/1676043966/download_music/2014/07/the-black-eyed-peas-pump-it.mp3",
     "MGMT – Little dark age": "https://drivemusic.club/dl/oaQgsrNBjshvaISaq-xgTA/1676044003/download_music/2018/03/mgmt-little-dark-age.mp3",
+    "The Living Tombstone – My ordinary life": "https://muzew.com/uploads/music/2021/12/My_Ordinary_Life_The_Living_Tombstone.mp3",
+    "Liue – Suffer with me": "https://now.morsmusic.org/load/1021497721/Liue_-_Suffer_With_Me_(musmore.com).mp3",
+    "Interworld – Metamorphosis": "https://muzon-club.net/uploads/files/2022-08/interworld-metamorphosis_105897757.mp3",
+    "Interworld – Metamorphosis (Speed up)": "https://now.morsmusic.org/load/1488098272/INTERWORLD_-_METAMORPHOSIS_Sped_Up_(musmore.com).mp3",
+    "Interworld – Metamorphosis 2": "https://muzon-club.net/uploads/files/2022-11/interworld-metamorphosis-2_456736033.mp3",    
+    "Interworld – Rapture": "https://muzon-club.net/uploads/files/2022-12/interworld-rapture_456690313.mp3",
+    "Meg Myers – Desire (Hucci Remix)": "https://mp3bob.ru/download/muz/Meg_Myers_-_Desire_(Hucci_Remix)_[mp3pulse.ru].mp3",
     "Martin Garrix – Animals": "https://drivemusic.club/dl/lBYECS_NplyPZp92Vuj8yA/1676044028/download_music/2013/06/martin-garrix-animals-original-mix.mp3",
     "Gotye – Somebody that I used to know": "https://drivemusic.club/dl/v-blfymj8IFGDERAlxmbVA/1676044047/download_music/2014/07/gotye-somebody-that-i-used-to-know.mp3",
     "Morandi – Angels": "https://drivemusic.club/dl/bS1Q6frKWAHtJZ6YU_Y4bw/1676044067/download_music/2013/12/morandi-angels.mp3",
+    "Mazie – Dumb dumb": "https://now.morsmusic.org/load/879074920/mazie_-_dumb_dumb_(musmore.com).mp3",
+    "Gorillaz – Feel Good Inc.": "https://muzon-club.net/uploads/files/2022-07/gorillaz-feel-good-inc._456240017.mp3",   
+    "Mr.Kitty – After dark": "https://muzon-club.net/uploads/files/2021-11/mr.kitty-after-dark_456239972.mp3",
+    "Robert Miles – Fable": "https://mezzoforte.ru/s/artist/350321-robert_miles_fable_dream_version.mp3",
+    "Robert Miles – Children": "https://mezzoforte.ru/s/artist/445264-robert_miles_children_dream_version.mp3",
     "Lil Nas X – Old town road": "https://drivemusic.club/dl/xsH7_YhkjLSyBoAfblY3gA/1676044113/download_music/2019/04/lil-nas-x-old-town-road.mp3",
     "Edvard Maya – Stereo love": "https://mezzoforte.ru/s/artist/436923-edward_maya_amp_vika_jigulina_stereo_love_original.mp3",
     "Bon Jovi – Livin on a prayer": "https://now.morsmusic.org/load/1854281736/Bon_Jovi_-_Livin_On_A_Prayer_(musmore.com).mp3",
@@ -99,26 +113,19 @@ var oldPlaylist = {
 };
 
 var chillPlaylist = {
-    "Interworld – Metamorphosis": "https://muzon-club.net/uploads/files/2022-08/interworld-metamorphosis_105897757.mp3",
+    
     "Plenka – Nightmare": "https://now.morsmusic.org/load/1449846272/plenka_-_Nightmare_(musmore.com).mp3",
-    "The Living Tombstone – My ordinary life": "https://muzew.com/uploads/music/2021/12/My_Ordinary_Life_The_Living_Tombstone.mp3",
-    "Liue – Suffer with me": "https://now.morsmusic.org/load/1021497721/Liue_-_Suffer_With_Me_(musmore.com).mp3",
-    "Meg Myers – Desire (Hucci Remix)": "https://mp3bob.ru/download/muz/Meg_Myers_-_Desire_(Hucci_Remix)_[mp3pulse.ru].mp3",
     "Plenka – Closed": "https://now.morsmusic.org/load/297940494/plenka_-_Closed_(musmore.com).mp3",
     "Plenka – No": "https://now.morsmusic.org/load/747445245/plenka_-_No_(musmore.com).mp3",
     "Hensonn – Flare": "https://muzon-club.net/uploads/files/2022-11/hensonn-flare_456736542.mp3",
     "Martin Garrix – Animals": "https://mezzoforte.ru/s/artist/409392-martin_garrix_animals.mp3",
     "Daft Punk – Around the world": "https://mezzoforte.ru/s/daft_punk/around_the_world.mp3",
-    "Mazie – Dumb dumb": "https://now.morsmusic.org/load/879074920/mazie_-_dumb_dumb_(musmore.com).mp3",
-    "Skrilex – Bangarang": "https://muzon-club.net/uploads/files/2022-07/skrillex-feat.-sirah-bangarang-feat.-sirah_456515601.mp3",
-    "Gorillaz – Feel Good Inc.": "https://muzon-club.net/uploads/files/2022-07/gorillaz-feel-good-inc._456240017.mp3",   
-    "Mr.Kitty – After dark": "https://muzon-club.net/uploads/files/2021-11/mr.kitty-after-dark_456239972.mp3",
+    
     "Plenka – Call me": "https://now.morsmusic.org/load/291481396/plenka_-_Call_Me_(musmore.com).mp3",
-    "Eiffel 65 – Blue (KNY Factory Remix)": "https://muzon-club.net/uploads/files/2022-10/eiffel-65-blue-kny-factory-remix_105395263.mp3",
+
     "DKJ – Aces": "https://muzon-club.net/uploads/files/2022-10/aces-dkj_456239530.mp3",
     "ONIMXRU x STRAWANGLE – Psycho Cruise": "https://now.morsmusic.org/load/931801659/ONIMXRU_STRAWANGLE_-_PSYCHO_CRUISE_(musmore.com).mp3",
-    "Robert Miles – Fable": "https://mezzoforte.ru/s/artist/350321-robert_miles_fable_dream_version.mp3",
-    "Robert Miles – Children": "https://mezzoforte.ru/s/artist/445264-robert_miles_children_dream_version.mp3"
+    
 };
 
 function selectRandom(station){
@@ -132,7 +139,7 @@ function getKeyByValue(object, value) {
     
 function livePlaylistPlay() {
 	if (endedPlaylist != livePlaylist) {
-		var randomLiveSong = livePlaylist[selectRandom(livePlaylist)];
+		randomLiveSong = livePlaylist[selectRandom(livePlaylist)];
 	    endedPlaylist = livePlaylist;
 	
 	    player.pause();
@@ -154,7 +161,7 @@ function livePlaylistPlay() {
 
 function oldPlaylistPlay() {
 	if (endedPlaylist != oldPlaylist) {
-		var randomOldSong = oldPlaylist[selectRandom(oldPlaylist)];
+		randomOldSong = oldPlaylist[selectRandom(oldPlaylist)];
 	    endedPlaylist = oldPlaylist;
 	
 	    player.pause();
@@ -176,7 +183,7 @@ function oldPlaylistPlay() {
 
 function chillPlaylistPlay() {
 	if (endedPlaylist != chillPlaylist) {
-		var randomChillSong = chillPlaylist[selectRandom(chillPlaylist)];
+		randomChillSong = chillPlaylist[selectRandom(chillPlaylist)];
 	    endedPlaylist = chillPlaylist;
 	
 	    player.pause();
@@ -197,7 +204,7 @@ function chillPlaylistPlay() {
 }
     
 function firstPlay() {
-	var randomLiveSong = livePlaylist[selectRandom(livePlaylist)];
+	randomLiveSong = livePlaylist[selectRandom(livePlaylist)];
 	endedPlaylist = livePlaylist;
 	
 	player.pause();
@@ -213,7 +220,7 @@ function firstPlay() {
 	document.getElementById("button").classList.add("fa-circle-pause");
 	document.getElementById("play-button").setAttribute("onclick", "togglePlay()");
 }
-    
+		
 function togglePlay() {
 	if (player.paused) {
 		player.play();
@@ -228,13 +235,10 @@ function togglePlay() {
 	        document.getElementById("button").classList.add("fa-circle-pause");
 	    }
 	}
-    }
-
-navigator.mediaSession.setActionHandler('pause', function() {});
-navigator.mediaSession.setActionHandler('seekto', function() {});
+}
 
 function endedSong() {
-	var randomEndedSong = endedPlaylist[selectRandom(endedPlaylist)];
+	randomEndedSong = endedPlaylist[selectRandom(endedPlaylist)];
 	player.pause();
     player.src = randomEndedSong;
     player.play();
@@ -276,3 +280,6 @@ window.onclick = function(event) {
     }
   }
 }
+
+navigator.mediaSession.setActionHandler('pause', function() {});
+navigator.mediaSession.setActionHandler('seekto', function() {});
