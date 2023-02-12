@@ -26,10 +26,10 @@ span {
 
 .logo {
 	position: absolute;
-	width: 150px;
-	height: 30px;
+	width: 140px;
+	height: 25px;
 	top: 0;
-	left: 135px;
+	left: 130px;
 }
 
 /*—–––PLAYER–———*/
@@ -81,7 +81,7 @@ span {
     background-color: #0D2241;
     top: 50px;
     width: 200px;
-    height: 140px;
+    height: 145px;
     z-index: 1;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -99,18 +99,18 @@ span {
 
 .live {
 	position: absolute;
-	width: 145px;
+	width: 155px;
 	height: 45px;
 	top: 20px;
-	left: 30px;
+	left: 23px;
 }
 
 .old {
 	position: absolute;
-	width: 145px;
+	width: 155px;
 	height: 45px;
-	top: 85px;
-	left: 30px;
+	top: 87px;
+	left: 23px;
 }
 
 .top-hr {
@@ -203,7 +203,7 @@ span {
 	position: relative;
 	height: 130px;
 	width: 380px;
-	top: 85px;
+	top: 100px;
 	left: 15px;
 	box-shadow: 0px 4px 7px #091526;
 	border-radius: 20px;
@@ -257,7 +257,7 @@ span {
 	height: 50px;
 	width: 200px;
 	top: 320px;
-	left: 130px;
+	left: 123px;
 }
 
 .portfolio, .telegram, .github, .mail {
@@ -273,7 +273,7 @@ span {
 	height: 40px;
 	width: 290px;
 	top: 320px;
-	left: 65px;
+	left: 60px;
 }
 
 .copyright-text {
