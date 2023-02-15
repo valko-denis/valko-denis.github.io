@@ -2,57 +2,64 @@
 	<head>
 		<title>SoundAlive</title>
 		<meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
-		<link rel="stylesheet" type="text/css" href="./style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<link rel="stylesheet" type="text/css" href="style/style.css">
 		<script src="https://kit.fontawesome.com/c28e2329bf.js" crossorigin="anonymous"></script>
 	</head>
+	
 	<body>
-		<div class="navbar-container">
-			<img class="logo" src="./images/logo.png" alt="site-logo">
-		</div>
-		<div class="player-container">
-			<div class="select-live-container">
-				<div class="dropdown">
-					<button onclick="dropdownOpen()" class="dropdown-button">Select <b><span>LIVE</span></b> playlist <i class="fa-solid fa-caret-down"></i></button>
-					<div id="dropdown-menu" class="dropdown-content">
-						<hr class="top-hr">
-						<a onclick="livePlaylistPlay()" target=”_blank”><img class="live" src="./images/live.png" alt="live"></a>
-						<hr class="middle-hr">
-						<a onclick="oldPlaylistPlay()" target=”_blank”><img class="old" src="./images/80-90.png" alt="80'-90's"></a>
-					</div>
-				</div>
+		<div class="player-background-container">
+			
+			<div class="navbar-container">
+				<img class="logo" src="images/logo.png" alt="soundalive">
+        
+                <ul class="nav">
+                   <li class="navlink"><a id="connect"><b>Connect</b></a></li>
+                </ul>      
+	         </div>
+			
+			<div class="record-container">
+				<img class="record" src="images/record.png" alt="record">
 			</div>
-			<div class="player-controls-container">
-				<div class="minus-volume-container">
-					<a id="minus-volume-button" onclick="minusVolume()"><i class="fa-solid fa-volume-low"></i></a>
+			
+			<div class="player-container">
+				<div class="song-info-container">
+					<b><p id="song-title"></p></b>
+					<p id="song-artist"></p>
 				</div>
-				<div class="play-button-container">
+				
+				<div class="button-controls-container">
 					<audio id="player" src="" preload="auto"></audio>
-					<a id="play-button" onclick="firstPlay()"><i id="button" class="fa-regular fa-circle-play"></i></a>
+					<i id="prev" class="player-button fa-solid fa-backward-step"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<i id="next" class="player-button fa-solid fa-forward-step"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<i id="loop" class="loop-player-button fa-solid fa-repeat"></i></a>
 				</div>
-				<div class="plus-volume-container">
-					<a id="plus-volume-button" onclick="plusVolume()"><i class="fa-solid fa-volume-high"></i></a>
+				
+				<div class="play-pause-button-container">
+					<i id="play" onclick="firstPlay()" class="player-button fa-solid fa-play"></i></a>
 				</div>
 			</div>
 		</div>
-		<div class="playing-now-body-container">
-			<div class="playing-now-text-container">
-				<p class="playing-now-text"><b>Now playing</b></p>
-			</div>
-			<div class="playing-now-container">
-				<p id="playing-now"></p>
-			</div>
+		
+		
+		<svg width="412px" id="svg" viewBox="0 0 1440 590" xmlns="http://www.w3.org/2000/svg" class="wave1 transition duration-300 ease-in-out delay-150"><path d="M 0,600 C 0,600 0,300 0,300 C 147.7333333333333,260.26666666666665 295.4666666666666,220.53333333333336 442,245 C 588.5333333333334,269.46666666666664 733.8666666666666,358.1333333333333 900,378 C 1066.1333333333334,397.8666666666667 1253.0666666666666,348.93333333333334 1440,300 C 1440,300 1440,600 1440,600 Z" stroke="none" stroke-width="0" fill="#fa7f87" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 300)"></path></svg>
+		
+		
+		<div class="white">
+			<div class="links">
+				<i class="info-button fa-solid fa-circle-info"></i>&nbsp;&nbsp;
+				<a href="https://dojyaaan.pp.ua" class="portfolio"><i class="fa-sharp fa-solid fa-circle-user"></i></a>&nbsp;&nbsp;
+			    <a href="https://github.com/dojyaaa-n/" class="github"><i class="fa-brands fa-github"></i></a>&nbsp;&nbsp;
+			    <a href="https://t.me/D_O_J_Y_A_A_A_N" class="telegram"><i class="fa-brands fa-telegram"></i></a>&nbsp;&nbsp;
+			    <a href="mailto:denisvalko55@gmail.com" class="mail"><i class="fa-solid fa-at"></i></a>
+		     </div>
+		
+		    <div class="copyright-container">
+           	<p class="copyright-text"><b>Made with</b> <span><i class="fa fa-chevron-left"></i> <i class="fa fa-heart"></i> <i class="fa fa-chevron-right"></i></span> <b>by DOJYAAAN</b></p>
+            </div>
 		</div>
-		<div class="links">
-			<a href="https://dojyaaan.pp.ua" class="portfolio"><i class="fa-sharp fa-solid fa-circle-user"></i></a>&nbsp;&nbsp;
-			<a href="https://github.com/dojyaaa-n/" class="github"><i class="fa-brands fa-github"></i></a>&nbsp;&nbsp;
-			<a href="https://t.me/D_O_J_Y_A_A_A_N" class="telegram"><i class="fa-brands fa-telegram"></i></a>&nbsp;&nbsp;
-			<a href="mailto:denisvalko55@gmail.com" class="mail"><i class="fa-solid fa-at"></i></a>
-		</div>
-		<div class="copyright-container">
-        	<p class="copyright-text"><b>Made with</b> <span><i class="fa fa-chevron-left"></i> <i class="fa fa-heart"></i> <i class="fa fa-chevron-right"></i></span> <b>by DOJYAAAN</b></p>
-        </div>
-        <script type="text/javascript" src="index.js"></script> 
-		<script type="text/javascript" src="playlists.js"></script> 
+		
+		<script type="text/javascript" src="scripts/script.js"></script> 
+		<script type="text/javascript" src="scripts/playlist.js"></script> 
 	</body>
 </html>
